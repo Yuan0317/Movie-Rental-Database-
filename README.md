@@ -1,10 +1,10 @@
 
- #overview：
+ # Overview
  
  Developed a full-stack database project utilizing Oracle for backend database management. Established complex views and implemented triggers on these views to facilitate updates to underlying tables effectively. Integrated the database with Microsoft Access via ODBC, using Access forms as the user interface for clear and straightforward data management. 
  This setup enabled users to manage data efficiently without complex operations.
 
- ##Introduction：
+ ## Introduction：
  
  When the clerk opens Access, there will be a menu file, here selected three forms to facilitate the clerk management
  
